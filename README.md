@@ -1,5 +1,5 @@
 Overview:
-This program is a simple frequency analysis-based decryption tool for Caesar ciphers. 
+This program is a frequency analysis-based decryption tool for Caesar ciphers. 
 It reads a ciphertext from a file, analyzes the frequency of characters, determines 
 the most likely shift value, and then decrypts the ciphertext using that shift value.
 
